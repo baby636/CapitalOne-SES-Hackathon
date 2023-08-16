@@ -78,7 +78,7 @@ SimpleWebSocketServer==0.1.1
 six==1.13.0
 sqlparse==0.3.0
 sseclient==0.0.24
-tornado==6.0.3
+tornado==6.3.3
 tqdm==4.41.1
 traitlets==4.3.3
 twine==3.1.1
