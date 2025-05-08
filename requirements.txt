@@ -11,7 +11,7 @@ crypto==1.4.1
 cryptography==2.8
 cycler==0.10.0
 decorator==4.4.1
-Django==3.1.9
+Django==4.2.21
 docutils==0.15.2
 firebase==3.0.1
 firebase-admin==3.2.1
@@ -90,3 +90,4 @@ wcwidth==0.1.8
 webencodings==0.5.1
 websocket-client==0.57.0
 zipp==0.6.0
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
