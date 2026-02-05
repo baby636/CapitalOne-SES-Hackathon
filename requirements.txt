@@ -11,7 +11,7 @@ crypto==1.4.1
 cryptography==2.8
 cycler==0.10.0
 decorator==4.4.1
-Django==3.1.9
+Django==4.2.28
 docutils==0.15.2
 firebase==3.0.1
 firebase-admin==3.2.1
@@ -53,7 +53,7 @@ pexpect==4.7.0
 pickleshare==0.7.5
 pkginfo==1.5.0.1
 prompt-toolkit==3.0.2
-protobuf==3.11.2
+protobuf==6.33.5
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
